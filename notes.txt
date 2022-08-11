@@ -1,0 +1,66 @@
+[Notes]
+
+path: (data)/art/intrface
+
+
+[Resolution]
+
+mainmenu
+-> 640x480
+
+hr_mainmenu
+-> 1024x768, 1280x960
+
+death
+helpscrn
+seq*
+eg*
+-> 640x480, 1024x768, 1280x960
+
+twn*
+-> 453x444 (fallout1), 450x450 (fallout 2), 700x682
+
+
+
+[Original]
+
+--- all games / mods ---
+
+death.frm				Death (fullscreen) (original: 640x480)
+death.pal
+
+helpscrn.frm			Help screen (fullscreen) (original: 640x480)
+helpscrn.pal
+
+mainmenu.frm			Main menu (original: 640x480)
+
+hr_mainmenu.frm			Main menu HD (original: 1024x768)
+
+
+
+
+--- fallout 1 ---
+
+seq*.frm	(+ .pal)	séquence de fin (14 fichiers) (640x480)
+twn01-11.frm			plan de ville (12 fichiers) (453x444)
+
+--- fallout 2 ---
+
+eg_*.frm	(+ .pal)	séquence de fin (24 fichiers) (640x480)
+twn*.frm				plan de ville (16 fichiers) (450x450)
+
+--- olympus 2207 ---
+fn*.frm					séquence de fin (15 fichiers) (640x480)
+
+--- nevada ---
+eg_*.frm				séquence de fin (27 fichiers) (640x480)
+twn*.frm				plan de ville (16 fichiers) (450x450)
+	
+--- sonora ---
+end_*.frm				séquence de fin (34 fichiers) (640x480)
+twn*.frm				plan de ville (16 fichiers) (450x450)
+
+--- f15: ressurection ---
+end_*.frm				séquence de fin (41 fichiers) (640x480)
+twn*.frm				plan de ville (8+1 fichiers) (450x450)
+tm_tshel.frm			-
